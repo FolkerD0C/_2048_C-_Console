@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\_2048Game\_2048Game\bin\Debug\_2048Game.exe.config
+C:\Users\User\source\repos\_2048Game\_2048Game\bin\Debug\_2048Game.exe
+C:\Users\User\source\repos\_2048Game\_2048Game\bin\Debug\_2048Game.pdb
+C:\Users\User\source\repos\_2048Game\_2048Game\obj\Debug\_2048Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\_2048Game\_2048Game\obj\Debug\_2048Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\_2048Game\_2048Game\obj\Debug\_2048Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\_2048Game\_2048Game\obj\Debug\_2048Game.exe
+C:\Users\User\source\repos\_2048Game\_2048Game\obj\Debug\_2048Game.pdb
+C:\Users\User\source\repos\Games\_2048Game\_2048Game\bin\Debug\_2048Game.exe.config
+C:\Users\User\source\repos\Games\_2048Game\_2048Game\bin\Debug\_2048Game.exe
+C:\Users\User\source\repos\Games\_2048Game\_2048Game\bin\Debug\_2048Game.pdb
+C:\Users\User\source\repos\Games\_2048Game\_2048Game\obj\Debug\_2048Game.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Games\_2048Game\_2048Game\obj\Debug\_2048Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Games\_2048Game\_2048Game\obj\Debug\_2048Game.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Games\_2048Game\_2048Game\obj\Debug\_2048Game.exe
+C:\Users\User\source\repos\Games\_2048Game\_2048Game\obj\Debug\_2048Game.pdb
